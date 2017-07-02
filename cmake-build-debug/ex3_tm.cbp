@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex3_tm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/haim6678/CLionProjects/AP4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/haim6678/CLionProjects/AP4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/haim6678/CLionProjects/AP4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp">
+				<Option output="/home/haim6678/CLionProjects/AP4/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/haim6678/CLionProjects/AP4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp/fast">
+				<Option output="/home/haim6678/CLionProjects/AP4/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/haim6678/CLionProjects/AP4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/haim6678/CLionProjects/AP4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Algorithm.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Algorithm.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Bfs.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Bfs.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/BfsInfoMap.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/BfsInfoMap.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Driver.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Driver.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Logic.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Logic.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/LuxuryTaxi.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/LuxuryTaxi.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Management.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Management.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Map.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Map.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/MapFactory.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/MapFactory.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Mutex_Locker.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Mutex_Locker.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Passenger.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Passenger.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Point.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Point.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Searchable.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Searchable.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Socket.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Socket.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Square.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Square.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/StandardTaxi.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/StandardTaxi.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Taxi.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Taxi.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/TaxiCenter.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/TaxiCenter.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Tcp.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Tcp.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Class.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Class.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Manage.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Manage.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Runner.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Thread_Runner.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Trip.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Trip.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Trip_Info.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Trip_Info.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Udp.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Udp.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Validate_Interface.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/Validate_Interface.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/main.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/home/haim6678/CLionProjects/AP4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
